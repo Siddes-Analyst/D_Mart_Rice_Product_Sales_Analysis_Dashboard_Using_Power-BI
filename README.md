@@ -36,7 +36,7 @@
 
 ---
 
-## ⏱️ By Months
+## 📝 By Months
 
 ### 📊 Analysis
 - Highest Months: October & November
@@ -49,3 +49,18 @@
 ### 🎯 Conclusion
 - October & November are the festival months so Sales and Profit is higher than normal months.
 - April, May, July, sales is increasing 5 crores but compare to Rest all Month Profits only increased 0.4%. Because of the highest discount may affects the Profits.
+
+---
+
+## ⏱️ By Stores
+
+![](Images/03.png)
+
+### 📊 Analysis
+- Total Stores: 17 (Bangalore)
+- Highest Sales: Hoodi Store – ₹98.05 L
+- Lowest Sales: Ramamurthy Nagar Store – ₹95.12 L
+- Difference: Less than 0.3% in sales, and less than 0.2% in profit.
+
+### 🎯 Conclusion
+- All the Stores are contributing almost same result. There is no consider difference in stores Sales and Profit. 
