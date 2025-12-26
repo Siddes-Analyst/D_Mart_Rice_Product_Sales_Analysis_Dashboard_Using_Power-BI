@@ -86,3 +86,48 @@
 ### 🎯 Conclusion
 - Top 4 brands — Daawat, India Gate, D-Mart Premia, and Others — contribute 77% of sales and 75% of profits.
 - All are premium cooking rice brands preferred for daily use.
+
+---
+
+## 📝 By Product Category
+
+### 📊 Analysis
+- Basmati Rice – Sales – 10.79 Cr, Profit – 2.19 Cr
+- Poha – Sales – 1.7 Cr, Profit – 37.73 L
+- Others – Sales – 1.62 Cr, Profit – 34.94 L
+- Sona Mansoori Rice – Sales – 91.96 L, Profit – 19.58 L
+- Ponni Rice – Sales – 68 L, Profit – 14.9 L 
+- Kolam Rice – Sales – 39.17 L, Profit – 8.72 L 
+- Brown Rice – Sales – 32.93 L, Profit – 7.38 L 
+
+### 🎯 Conclusion
+- Basmati Rice contributes around 65% of overall sales and profit — a staple daily product.
+- Poha contributes about 10%, being a processed rice variant.
+- Remaining varieties contribute 25%, mainly occasional-use rice types.
+
+---
+
+## 📝 By Product Quantity
+
+### 📊 Analysis
+- 5 Kg – Sales – 6.28 Cr, Profit – 1.41 Cr
+- 10 Kg – Sales – 4.9 Cr, Profit – 1.10 Cr
+- 1 Kg – Sales – 3.05 Cr, Profit – 52.55 L
+- 500g – Sales – 1.72 Cr, Profit – 27.72 L
+- 26Kg – Sales – 38.32 L, Profit – 8.29 L 
+
+### 🎯 Conclusion
+- 5 Kg and 10 Kg packs account for 69% of sales and 74% of profit — showing strong customer preference for medium to large packs.
+- 1 Kg and 500 g packs together contribute 29% of sales and 23% of profit, showing smaller margins.
+- 26 Kg (Ponni Rice) contributes around 2.4% and remains niche.
+- Across all sizes, Basmati Rice dominates in sales and profit.
+
+---
+
+## 🧠 Final Conclusion
+Overall, rice product sales and profit at Bangalore D-Mart stores show consistent growth over five years.
+- Festival months (October–November) drive higher demand.
+- Premium brands and daily-use categories dominate the market.
+- Medium and large pack sizes are the most profitable.
+- Adding new rice varieties and festive discounts can further boost annual growth beyond 2%.
+
