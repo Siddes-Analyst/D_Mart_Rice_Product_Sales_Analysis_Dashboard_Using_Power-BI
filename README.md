@@ -52,7 +52,7 @@
 
 ---
 
-## ⏱️ By Stores
+## 🛒 By Stores
 
 ![](Images/03.png)
 
