@@ -1,1 +1,1 @@
-# 2020 – 2024 Sales Performance Report of Bangalore D - Mart Stores Rice Products
+# 2020 – 2024 Sales Performance of Bangalore D - Mart Stores Rice Products
