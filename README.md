@@ -63,4 +63,26 @@
 - Difference: Less than 0.3% in sales, and less than 0.2% in profit.
 
 ### 🎯 Conclusion
-- All the Stores are contributing almost same result. There is no consider difference in stores Sales and Profit. 
+- All the Stores are contributing almost same result. There is no consider difference in stores Sales and Profit.
+
+---
+
+## 📝 By Rice Brands
+
+### 📊 Analysis
+- Daawat – Sales – 5.3 Cr, Profit – 1.07 Cr
+- India Gate – Sales – 4.0 Cr, Profit – 82.39 Cr
+- DMart Premia – Sales – 2.04 Cr, Profit – 41.83 L
+- Others – Sales – 1.17 Cr, Profit – 26.04 L
+- Kohinoor – Sales – 69.92 L, Profit – 15.18 L
+- GB – Sales – 68 L, Profit – 14.90 L
+- Fortune – Sales – 55.93 L, Profit – 11.83 L
+- Bhagyalakshmi – Sales – 47.58 L, Profit – 10.36 L
+- Tata Sampan – Sales – 46.93 L, Profit – 9.94 L
+- Sri Padmavathi – Sales – 36.84 L, Profit – 8.16 L
+- Parrys – Sales – 29.53 L, Profit – 6.37 L
+- 24 Mantra Organic – Sales – 27.57 L, Profit – 6.15 L
+
+### 🎯 Conclusion
+- Top 4 brands — Daawat, India Gate, D-Mart Premia, and Others — contribute 77% of sales and 75% of profits.
+- All are premium cooking rice brands preferred for daily use.
