@@ -38,8 +38,6 @@
 
 ## ⏱️ By Months
 
-![](Images/02.png)
-
 ### 📊 Analysis
 - Highest Months: October & November
 - Avg. Sales: ₹1.55 Cr | Avg. Profit: ₹31.55 L
