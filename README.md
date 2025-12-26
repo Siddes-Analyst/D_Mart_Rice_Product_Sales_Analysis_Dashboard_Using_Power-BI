@@ -1,1 +1,1 @@
-# D_Mart_Rice_Product_Sales_Analysis_Dashboard_Using_Power-BI
+# 2020 – 2024 Sales Performance Report of Bangalore D - Mart Stores Rice Products
